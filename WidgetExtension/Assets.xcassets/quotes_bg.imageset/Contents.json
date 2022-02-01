@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "quotes_bg.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
